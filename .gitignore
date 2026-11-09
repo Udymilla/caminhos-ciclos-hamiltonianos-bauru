@@ -1,0 +1,19 @@
+# Dependências e ambiente local
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Consultas e arquivos temporários gerados localmente
+data/cache/*.json
+*.tmp
+~$*

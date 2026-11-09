@@ -1,0 +1,123 @@
+{
+  "vertices": 8,
+  "escolas": 7,
+  "origem_matriz": "API OSRM (salvo em cache)",
+  "consulta_utc": "2026-11-09T17:42:10+00:00",
+  "sha256_resposta_osrm": "4dc6f09a4c1eae063f49ddb74ecc9e07f9c6e5dd4bb91c64cd083c3464515594",
+  "encaixe_maximo_m": 40.62536856,
+  "coordenadas": [
+    {
+      "codigo_inep": "35917655",
+      "nome": "JOAO SIMOES NETTO PROF",
+      "latitude": -22.32169914,
+      "longitude": -48.98686981
+    },
+    {
+      "codigo_inep": "35462724",
+      "nome": "HENRIQUE ROCHA DE ANDRADE PROFESSOR",
+      "latitude": -22.2663002,
+      "longitude": -49.07049942
+    },
+    {
+      "codigo_inep": "35025513",
+      "nome": "JOAQUIM DE MICHIELI PROF",
+      "latitude": -22.3227005,
+      "longitude": -49.04370117
+    },
+    {
+      "codigo_inep": "35070634",
+      "nome": "SUELI APARECIDA SE ROSA PROFA",
+      "latitude": -22.28614998,
+      "longitude": -49.03382111
+    },
+    {
+      "codigo_inep": "35900229",
+      "nome": "DURVAL GUEDES DE AZEVEDO PROF",
+      "latitude": -22.36079979,
+      "longitude": -49.10179901
+    },
+    {
+      "codigo_inep": "35025549",
+      "nome": "GUIA LOPES",
+      "latitude": -22.32411003,
+      "longitude": -49.12549973
+    },
+    {
+      "codigo_inep": "35025434",
+      "nome": "LUIZ BRAGA PROF",
+      "latitude": -22.35167503,
+      "longitude": -49.05360413
+    }
+  ],
+  "resultados": {
+    "Exato": {
+      "modo": "minimo",
+      "metodo": "Exato",
+      "rota": [
+        0,
+        6,
+        5,
+        7,
+        3,
+        1,
+        4,
+        2,
+        0
+      ],
+      "km": 61.4546,
+      "tempo_ms": 12.7239,
+      "encontrou": true,
+      "concluido": true,
+      "timeout": false,
+      "otimo_comprovado": true,
+      "ausencia_comprovada": false,
+      "nos": 9553,
+      "podas": 4478,
+      "aviso": "",
+      "rota_valida": true
+    },
+    "Heuristica": {
+      "modo": "minimo",
+      "metodo": "Heuristica",
+      "rota": [
+        0,
+        6,
+        5,
+        7,
+        1,
+        4,
+        2,
+        3,
+        0
+      ],
+      "km": 63.38545,
+      "tempo_ms": 0.6379,
+      "encontrou": true,
+      "concluido": false,
+      "timeout": false,
+      "otimo_comprovado": false,
+      "ausencia_comprovada": false,
+      "nos": 0,
+      "podas": 0,
+      "aviso": "Solucao heuristica: nao ha garantia de otimalidade.",
+      "rota_valida": true
+    }
+  },
+  "melhor_algoritmo": "Exato",
+  "melhor_rota_escolas": [
+    "Unidade Regional de Ensino de Bauru",
+    "GUIA LOPES",
+    "DURVAL GUEDES DE AZEVEDO PROF",
+    "LUIZ BRAGA PROF",
+    "JOAQUIM DE MICHIELI PROF",
+    "JOAO SIMOES NETTO PROF",
+    "SUELI APARECIDA SE ROSA PROFA",
+    "HENRIQUE ROCHA DE ANDRADE PROFESSOR",
+    "Unidade Regional de Ensino de Bauru"
+  ],
+  "melhor_custo_simetrico_km": 61.4546,
+  "distancia_rodoviaria_efetiva_km": 60.2641,
+  "origem_geometria": "API OSRM",
+  "rota_rodoviaria_confirmada": true,
+  "cache_comprovante": "data/cache/matriz_a56c80ee8ee10796d735.json"
+}

@@ -1,0 +1,159 @@
+{
+  "vertices": 12,
+  "escolas": 11,
+  "origem_matriz": "API OSRM (salvo em cache)",
+  "consulta_utc": "2026-11-09T17:42:13+00:00",
+  "sha256_resposta_osrm": "3818465160f57e3f90158604eae79fa49ecff45ad757eb75a20f2844a0832f73",
+  "encaixe_maximo_m": 40.62536856,
+  "coordenadas": [
+    {
+      "codigo_inep": "35917655",
+      "nome": "JOAO SIMOES NETTO PROF",
+      "latitude": -22.32169914,
+      "longitude": -48.98686981
+    },
+    {
+      "codigo_inep": "35462724",
+      "nome": "HENRIQUE ROCHA DE ANDRADE PROFESSOR",
+      "latitude": -22.2663002,
+      "longitude": -49.07049942
+    },
+    {
+      "codigo_inep": "35025513",
+      "nome": "JOAQUIM DE MICHIELI PROF",
+      "latitude": -22.3227005,
+      "longitude": -49.04370117
+    },
+    {
+      "codigo_inep": "35070634",
+      "nome": "SUELI APARECIDA SE ROSA PROFA",
+      "latitude": -22.28614998,
+      "longitude": -49.03382111
+    },
+    {
+      "codigo_inep": "35900229",
+      "nome": "DURVAL GUEDES DE AZEVEDO PROF",
+      "latitude": -22.36079979,
+      "longitude": -49.10179901
+    },
+    {
+      "codigo_inep": "35025549",
+      "nome": "GUIA LOPES",
+      "latitude": -22.32411003,
+      "longitude": -49.12549973
+    },
+    {
+      "codigo_inep": "35025434",
+      "nome": "LUIZ BRAGA PROF",
+      "latitude": -22.35167503,
+      "longitude": -49.05360413
+    },
+    {
+      "codigo_inep": "35900990",
+      "nome": "ANTONIO GUEDES DE AZEVEDO PROF",
+      "latitude": -22.29590034,
+      "longitude": -49.0658989
+    },
+    {
+      "codigo_inep": "35565696",
+      "nome": "PROFA MARIA EUNICE BORGES DE MIRANDA REIS",
+      "latitude": -22.30410004,
+      "longitude": -49.11169815
+    },
+    {
+      "codigo_inep": "35900217",
+      "nome": "WALTER BARRETTO MELCHERT PROF",
+      "latitude": -22.3041954,
+      "longitude": -49.00306702
+    },
+    {
+      "codigo_inep": "35025461",
+      "nome": "SILVERIO SAO JOAO PROF",
+      "latitude": -22.33390045,
+      "longitude": -49.06330109
+    }
+  ],
+  "resultados": {
+    "Exato": {
+      "modo": "minimo",
+      "metodo": "Exato",
+      "rota": [
+        0,
+        6,
+        9,
+        2,
+        8,
+        4,
+        10,
+        1,
+        3,
+        11,
+        7,
+        5,
+        0
+      ],
+      "km": 65.26805,
+      "tempo_ms": 4000.0412,
+      "encontrou": true,
+      "concluido": false,
+      "timeout": true,
+      "otimo_comprovado": false,
+      "ausencia_comprovada": false,
+      "nos": 3079986,
+      "podas": 2157723,
+      "aviso": "Tempo limite atingido; resultado nao conclusivo quanto a otimalidade/ausencia.",
+      "rota_valida": true
+    },
+    "Heuristica": {
+      "modo": "minimo",
+      "metodo": "Heuristica",
+      "rota": [
+        0,
+        6,
+        9,
+        2,
+        8,
+        4,
+        10,
+        1,
+        3,
+        11,
+        7,
+        5,
+        0
+      ],
+      "km": 65.26805,
+      "tempo_ms": 2.754,
+      "encontrou": true,
+      "concluido": false,
+      "timeout": false,
+      "otimo_comprovado": false,
+      "ausencia_comprovada": false,
+      "nos": 0,
+      "podas": 0,
+      "aviso": "Solucao heuristica: nao ha garantia de otimalidade.",
+      "rota_valida": true
+    }
+  },
+  "melhor_algoritmo": "Exato",
+  "melhor_rota_escolas": [
+    "Unidade Regional de Ensino de Bauru",
+    "GUIA LOPES",
+    "PROFA MARIA EUNICE BORGES DE MIRANDA REIS",
+    "HENRIQUE ROCHA DE ANDRADE PROFESSOR",
+    "ANTONIO GUEDES DE AZEVEDO PROF",
+    "SUELI APARECIDA SE ROSA PROFA",
+    "WALTER BARRETTO MELCHERT PROF",
+    "JOAO SIMOES NETTO PROF",
+    "JOAQUIM DE MICHIELI PROF",
+    "SILVERIO SAO JOAO PROF",
+    "LUIZ BRAGA PROF",
+    "DURVAL GUEDES DE AZEVEDO PROF",
+    "Unidade Regional de Ensino de Bauru"
+  ],
+  "melhor_custo_simetrico_km": 65.26805,
+  "distancia_rodoviaria_efetiva_km": 65.96310000000001,
+  "origem_geometria": "API OSRM",
+  "rota_rodoviaria_confirmada": true,
+  "cache_comprovante": "data/cache/matriz_8bd185a1fc9c86d692d0.json"
+}

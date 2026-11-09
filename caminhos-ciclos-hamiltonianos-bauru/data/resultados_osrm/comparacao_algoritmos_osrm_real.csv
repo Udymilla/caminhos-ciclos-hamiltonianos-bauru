@@ -1,7 +1,0 @@
-﻿vertices,algoritmo,distancia_km,tempo_ms,rota_valida,otimo_comprovado,timeout,nos,podas,consulta_utc
-5,Exato,41.6447,0.4097,True,True,False,65,7,2026-11-09T17:42:08+00:00
-5,Heuristica,41.6447,0.174,True,False,False,0,0,2026-11-09T17:42:08+00:00
-8,Exato,61.4546,12.7239,True,True,False,9553,4478,2026-11-09T17:42:10+00:00
-8,Heuristica,63.38545,0.6379,True,False,False,0,0,2026-11-09T17:42:10+00:00
-12,Exato,65.26805,4000.0412,True,False,True,3079986,2157723,2026-11-09T17:42:13+00:00
-12,Heuristica,65.26805,2.754,True,False,False,0,0,2026-11-09T17:42:13+00:00

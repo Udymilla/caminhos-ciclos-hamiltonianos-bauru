@@ -1,0 +1,6 @@
+VERSÃO 4 - BASE REAL INCLUÍDA
+
+Os dois arquivos enviados pelo grupo estão em fontes_originais/.
+Foram gerados CSVs de Bauru e o arquivo padrão a ser carregado é escolas_bauru_consolidadas.csv (62 registros da SEDUC, 57 conferidos também no INEP).
+O INEP contém 4 registros não presentes na SEDUC que foram preservados em escolas_bauru_inep_nao_seduc.csv.
+As distâncias POR RUA ainda dependem de consulta ao OSRM e do ponto-base real definido pelo usuário.

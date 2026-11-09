@@ -1,0 +1,2 @@
+Os arquivos JSON de matriz e geometria OSRM serao salvos aqui quando usar o modo online.
+O cache nao contem dados por padrao. Use os testes offline sem conexao.

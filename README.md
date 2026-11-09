@@ -91,10 +91,3 @@ requirements.txt            Dependências Python
 
 As coordenadas e os cadastros de escolas podem apresentar divergências ou desatualizações. Os dados originais podem ser obtidos nas fontes acima. As escolas incluídas no conjunto de experimentos OSRM foram selecionadas com base na auditoria geográfica.
 
-## Uso de inteligência artificial
-
-O grupo utilizou **ChatGPT (OpenAI)** como apoio relevante à **elaboração e organização do código-fonte**, à implementação dos algoritmos e interface, à criação de testes e ao apoio de redação da documentação. A utilização de IA é declarada de forma explícita; os integrantes são responsáveis pela revisão, compreensão, testes e validação dos resultados apresentados.
-
-## Relatório técnico
-
-O relatório técnico final é entregue **separadamente** à disciplina. Este repositório inclui o código e as evidências reproduzíveis das distâncias OSRM. O relatório deve identificar os cinco integrantes, as contribuições realmente realizadas, professor, instituição e referências.
